@@ -6,6 +6,11 @@
 ![GitHub Issues](https://img.shields.io/github/issues/rivzor/DiscordTokenMaster?color=red&style=flat-square)
 ![License](https://img.shields.io/github/license/rivzor/DiscordTokenMaster?color=purple&style=flat-square)
 
+
+[![EXE Scan](https://img.shields.io/badge/VirusTotal-EXE-blue?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/49b306c21ae71b62c332f644280315ca10a95c2ab9b7d687d3b6bf7bea8b872b)
+[![ZIP Scan](https://img.shields.io/badge/VirusTotal-ZIP-red?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/4351a2f98e692aa28aea99156ca744ad4b0a864d0fea0c6b6ca649f643c6eced?nocache=1)
+
+
 ---
 
 ## Описание / Description
@@ -39,6 +44,9 @@
 ![изображение](https://github.com/user-attachments/assets/110070c1-bea0-442c-959b-2832dc8b983e)
 
 ## Установка / Installation
+
+[![EXE Scan](https://img.shields.io/badge/VirusTotal-EXE-blue?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/49b306c21ae71b62c332f644280315ca10a95c2ab9b7d687d3b6bf7bea8b872b)
+[![ZIP Scan](https://img.shields.io/badge/VirusTotal-ZIP-red?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/4351a2f98e692aa28aea99156ca744ad4b0a864d0fea0c6b6ca649f643c6eced?nocache=1)
 
 ### Русский
 1. Скачай релиз с [GitHub Releases](https://github.com/rivzor/DiscordTokenMaster/releases).  
