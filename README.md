@@ -36,6 +36,8 @@
 
 ---
 
+![изображение](https://github.com/user-attachments/assets/110070c1-bea0-442c-959b-2832dc8b983e)
+
 ## Установка / Installation
 
 ### Русский
